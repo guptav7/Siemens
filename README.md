@@ -14,3 +14,14 @@ Your completed module should include a README which explains the module inputs a
 Your module should not be tightly coupled to your AWS account – it should be designed to that it can be deployed to any arbitrary AWS account
 
 8. Create self signed certificate for test.example.com and used this hostname with Load balancer, this dns should be resolve internally within VPC network with route 53 private hosted zone.
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+To execute the code, we need to follow the below steps:
+
+WE have to give " Terraform init "
+Then "Terraform Plan"
+
+Then "Terraform Apply" 
